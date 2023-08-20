@@ -6,3 +6,4 @@ https://bl2skills.com/psycho.html#05550510500151005005155100000000000
 Heavy Forcus on Bloodlust Stacks and Action Skill melee 
 
 ### Zer0
+BUILD
