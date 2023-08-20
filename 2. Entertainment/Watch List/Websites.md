@@ -6,3 +6,4 @@
 
 - (zoro.to) https://aniwatch.to
 - 9animeto https://9animetv.to
+- 9anime.me https://9anime.me
