@@ -5,4 +5,4 @@
 ### Anime
 
 - (zoro.to) https://aniwatch.to
-- 9animeto
+- 9animeto https://9animetv.to
