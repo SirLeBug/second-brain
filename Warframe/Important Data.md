@@ -1,3 +1,9 @@
+
+### Cephalon Simaris Target Locations
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=666483447
+
+
 ## Modular Items
 
 These are the parts that you need to level up so it counts towards Mastery Rank
