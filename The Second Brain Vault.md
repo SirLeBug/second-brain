@@ -10,6 +10,9 @@ This vault also contains my personal knowledge regarding server management as-we
 ## + Anthem
 ### - [[Anthem/Combos]]
 
+## + Borderlands 2
+### - [[Borderlands 2/Builds]]
+
 ## + Borderlands 3
 ### - [[Borderlands 3/Builds]]
 ### - [[Borderlands 3/Mods]]
@@ -122,6 +125,11 @@ This vault also contains my personal knowledge regarding server management as-we
 ### - [[Warframe/Guides]]
 ### - [[Warframe/Important Data]]
 ### - [[Warframe/Tools]]
+
+## + World Of Warcraft: Wrath Of The Lich King
+### - [[World of Warcraft/Wrath of the Lich King/Addons]]
+### - [[World of Warcraft/Wrath of the Lich King/Guides]]
+### - [[World of Warcraft/Wrath of the Lich King/Builds]]
 
 
 # Dev

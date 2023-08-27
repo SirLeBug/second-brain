@@ -11,6 +11,8 @@
 - jump_sketchy2_rc1 (Completed)
 - jump_panama (Completed)
 - jump_toxic_v6 (Completed)
+- jump_above_rc1 (Completed)
+- jump_christmas (Level 7)
 - jump_airships_v2 (2nd Last (5 Rocket Sync))
 - jump_bojack_v2 (Last Course)
 
