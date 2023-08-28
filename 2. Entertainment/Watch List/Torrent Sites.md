@@ -7,7 +7,7 @@
 
 ### 1. [https://wolfmax4k.com/](https://wolfmax4k.com/ "https://wolfmax4k.com/")
 
-<iframe src="https://wolfmax4k.com/"https://wolfmax4k.com/")" width="1080" height="820"></iframe>
+<iframe src="https://wolfmax4k.com/" width="1080" height="820"></iframe>
 
 ### 2. http://www.elitefreak.net
 
