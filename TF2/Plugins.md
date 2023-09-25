@@ -10,7 +10,13 @@ https://github.com/Jump-Academy/jse
 
 https://github.com/chrb22/jumpqol
 
+https://github.com/Rachellos/Offline-Jump-Timer-Rachello-Network-Lite
+
+https://github.com/Rachellos/Rachello-Network
+
 https://jump.tf/forum/index.php?topic=1350.0
+
+https://github.com/p4tt/OpenTimer-tf2/releases/tag/0.5
 
 ### Custom Commands
 

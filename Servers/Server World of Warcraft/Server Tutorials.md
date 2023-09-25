@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=fhziWTZ2tw8&ab_channel=TheDoomedProphet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhziWTZ2tw8" title="WOW SPP how to setup local LAN party" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+### Enable XP x2
+
+SPP_Server/Settings/wotlk/mangos.conf
+![[Pasted image 20230829154327.png]]
 
 ## Warmane Launcher
 

@@ -10,6 +10,9 @@ This vault also contains my personal knowledge regarding server management as-we
 ## + Anthem
 ### - [[Anthem/Combos]]
 
+## + Armored Core 6
+### - [[Armored Core 6/Builds]]
+
 ## + Borderlands 2
 ### - [[Borderlands 2/Builds]]
 

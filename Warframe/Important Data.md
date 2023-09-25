@@ -4,6 +4,10 @@
 https://steamcommunity.com/sharedfiles/filedetails/?id=666483447
 
 
+### Farm Locations
+
+![[Pasted image 20230917225018.png]]
+
 ## Modular Items
 
 These are the parts that you need to level up so it counts towards Mastery Rank
