@@ -11,3 +11,8 @@ https://www.youtube.com/watch?v=OwrDwChWHLg&ab_channel=AznvasionsPlays
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OwrDwChWHLg" title="Warframe | NEW AMP META &amp; Amp Arcanes | Easy Eidolons Post-Zariman!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://www.youtube.com/watch?v=AjM8XEHIH3k&ab_channel=WarframeFlo
+
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/AjM8XEHIH3k" title="TOP 5 Companions in Warframe 2023  [Part 1]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
