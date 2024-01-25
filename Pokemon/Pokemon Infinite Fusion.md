@@ -8,7 +8,7 @@ https://infinitefusion.fandom.com/wiki/Pokémon_Infinite_Fusion_Wiki
 
  ### Fusion Calculator
 
-
+https://aegide.gitlab.io
 
 
 Early Magic Boots Trick

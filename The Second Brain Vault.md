@@ -108,7 +108,7 @@ This vault also contains my personal knowledge regarding server management as-we
 ### - [[TF2/Custom Command Aliases]]
 ### - [[TF2/FastDLs]]
 ### - [[TF2/Indexes]]
-### - [[TF2/Jump Tier List]]
+### - [[Jump Tier List]]
 ### - [[TF2/Plugins]]
 ### - [[TF2/Wearables]]
 ## + Terraria

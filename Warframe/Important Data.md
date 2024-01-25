@@ -39,3 +39,12 @@ Subspecies
 
 #### - Hound
 Model
+
+### Relick Farm
+
+AXI farm GROUP = Apollo Disruption (Lua) 
+AXI/NEO farm SOLO = Marduk Sabotage (Void) 
+
+MESO/NEO = Ukko Capture (Void) 
+
+LITH farm = Hepit Capture (Void)
