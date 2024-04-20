@@ -1,5 +1,14 @@
 Builds for the different characters
 
+
+### All In One
+
+https://www.youtube.com/watch?v=75N1BIaBoNo&ab_channel=YodaofSoda
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/75N1BIaBoNo" title="BEST BUILDS FOR EVERY CHARACTER! ONE SHOT All Endgame Content! | Perfect Gear + Save | Borderlands 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ### FL4K
 
 https://www.youtube.com/watch?v=WI10aEvD-uE&ab_channel=UncleZerk
